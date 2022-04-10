@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/encrypt_add_btn.xml" value="0.224" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/encrypt_scene_back_btn.xml" value="0.2595" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/encrypt_scene_button_bg.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/home_button_bg.xml" value="0.2595" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/home_gradient_bg.xml" value="0.2595" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/top_rect.xml" value="0.2595" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/drawable/topbar_gradient.xml" value="0.2595" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/layout/encrypt_scene.xml" value="0.4" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/layout/home_screen.xml" value="0.2" />
+        <entry key="..\:/programming/AndroidStudio_Projects/EncAppDesign/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2595" />
       </map>
     </option>
   </component>

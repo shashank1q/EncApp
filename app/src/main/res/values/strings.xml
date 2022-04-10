@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">EncryptionApp</string>
+    <string name="encrypt_it_">Encrypt it.</string>
+    <string name="applogo">Encrypt it application logo</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="Encrypt_Desc">Encrypt your data</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="Decrypt_Desc">decrypt your data</string>
+    <string name="generate_password">Generate \n password</string>
+    <string name="saved_password">Saved \n Password</string>
+    <string name="about_us">About us</string>
+    <string name="settings">Settings</string>
+    <string name="Version">App Version 1.0</string>
+    <string name="WhyToEncrypt">Encrypt your file to make it unreadable for anyone.\n\nyou can encrypt your sensitive file first before uploading on cloud storage. so, if in case your account get compromized. Your file will still be unreadable to anyone else</string>
+    <string name="select_files_to_encrypt">Select Files to encrypt</string>
 </resources>
